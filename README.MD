@@ -17,6 +17,8 @@ Para instalar las dependencias necesarias, ejecuta:
 
 ```sh
 pip install -r requirements.txt
+```
+
 Ejecución
 Para ejecutar el proyecto, simplemente corre el script main.py:
 
@@ -29,4 +31,3 @@ Pérdida por Época
 
 Línea de Regresión
 ![alt text](./img/image-2.png)
-```
